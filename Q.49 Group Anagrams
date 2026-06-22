@@ -1,0 +1,23 @@
+import java.util.*;
+public class Practice{
+    public static void main(String[] args) {
+    String[] strs = {"eat","tea","tan","ate","nat","bat"};
+    Solution s=new Solution();
+    System.out.println(s.groupAnagrams(strs));
+    }
+}
+class Solution {
+    public List<List<String>> groupAnagrams(String[] strs) {
+        Map<String,List<String>>map=new HashMap<>();
+        for(String val:strs){
+            char[] arr=val.toCharArray();
+            Arrays.sort(arr);
+            String key=new String(arr);
+            if(!map.containsKey(key)){
+               map.put(key,new ArrayList<>());//assign key and empty list
+            }
+            map.get(key).add(val);//key ke respect wali value(key repeat nhi hogi value hogi kyuki List me store ho rhi aur HashMap value ka repeat hona allow krta hai)
+        }
+        return new ArrayList<>(map.values());//List ke andar map ki values (jo khud list format me hai same key ke liye)
+    }
+}
