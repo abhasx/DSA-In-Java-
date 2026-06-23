@@ -1,0 +1,27 @@
+import java.util.*;
+public class Practice{
+    public static void main(String[] args) {
+  int[]nums={1,2,1,2,1,2,3,1,3,3,3,3,3,2};
+  int k = 2;
+  Solution obj=new Solution();
+  System.out.println(obj.topKFrequent(nums, k));
+    }
+}
+class Solution {
+    public int[] topKFrequent(int[] nums, int k) {
+    Map<Integer,Integer>map=new HashMap<>();
+    for (int i = 0; i < nums.length; i++) {
+        if(!map.containsKey(nums[i])){
+            map.put(nums[i],1);
+        }else{
+            map.put(nums[i],map.get(nums[i])+1);
+        }
+    }
+    
+    List<Integer>key=new ArrayList<>(map.keySet());//gives the set of key
+    key.sort((a, b) -> map.get(b) - map.get(a));//key sort based on it's higher value
+    List<Integer>lst=key.subList(0, k);//excludes k
+    int[] result=lst.stream().mapToInt(Integer::intValue).toArray();//convert Integer lst to int[] arr(intVlue changes Integer to int)
+    return result;
+}
+}
