@@ -1,0 +1,28 @@
+//Time complexity-O(n) & Space complexity-O(1)
+class Solution {
+    public boolean checkSubarraySum(int[] nums, int k) {
+        for (int i = 0; i < nums.length-1; i++) {    
+            int sum=0;
+            for (int j = i; j < nums.length; j++) {
+            int c=nums[j];
+            if(j==i){
+                sum+=c;
+                continue;
+            }
+            sum+=c;
+            if(sum%k==0&&k!=0){
+               return true;
+            }
+        }
+       }
+    return false;}
+}
+public class Practice {
+    public static void main(String[] args) throws Exception {
+      int[] nums={23,2,6,4,13};
+      int k=13;
+      Solution s=new Solution();
+      boolean a=s.checkSubarraySum(nums, k);
+      System.out.println(a);
+    }
+}
