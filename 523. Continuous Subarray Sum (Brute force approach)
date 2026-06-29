@@ -18,7 +18,7 @@ class Solution {
     return false;}
 }
 public class Practice {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args)  {
       int[] nums={23,2,6,4,13};
       int k=13;
       Solution s=new Solution();
