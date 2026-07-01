@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhasx/DSA-In-Java-/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhasx/DSA-In-Java-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhasx/DSA-In-Java-/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhasx/DSA-In-Java-/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhasx/DSA-In-Java-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhasx/DSA-In-Java-/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -18,5 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhasx/DSA-In-Java-/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhasx/DSA-In-Java-/tree/master/0442-find-all-duplicates-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhasx/DSA-In-Java-/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhasx/DSA-In-Java-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
