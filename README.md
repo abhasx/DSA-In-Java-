@@ -46,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/abhasx/DSA-In-Java-/tree/master/0319-bulb-switcher) |
 | [0877-stone-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0877-stone-game) |
 ## Brainteaser
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/abhasx/DSA-In-Java-/tree/master/0319-bulb-switcher) |
 ## Game Theory
 |  |
 | ------- |
