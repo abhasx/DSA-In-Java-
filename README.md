@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhasx/DSA-In-Java-/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhasx/DSA-In-Java-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhasx/DSA-In-Java-/tree/master/0560-subarray-sum-equals-k) |
+| [0877-stone-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0877-stone-game) |
 ## Brainteaser
 |  |
 | ------- |
@@ -53,4 +55,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
