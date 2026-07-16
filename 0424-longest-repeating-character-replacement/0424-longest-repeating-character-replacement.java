@@ -1,10 +1,7 @@
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
     public int characterReplacement(String s, int k) {
 
-        Map<Character, Integer> map = new HashMap<>();
+        int[] freq = new int[26];
 
         int left = 0;
         int maxFreq = 0;
@@ -12,16 +9,12 @@ class Solution {
 
         for (int right = 0; right < s.length(); right++) {
 
-            char ch = s.charAt(right);
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+            freq[s.charAt(right) - 'A']++;
 
-            maxFreq = Math.max(maxFreq, map.get(ch));
+            maxFreq = Math.max(maxFreq, freq[s.charAt(right) - 'A']);
 
             while ((right - left + 1) - maxFreq > k) {
-
-                char leftChar = s.charAt(left);
-                map.put(leftChar, map.get(leftChar) - 1);
-
+                freq[s.charAt(left) - 'A']--;
                 left++;
             }
 
