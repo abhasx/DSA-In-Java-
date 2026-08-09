@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhasx/DSA-In-Java-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhasx/DSA-In-Java-/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1140-stone-game-ii) |
 | [3731-find-missing-elements](https://github.com/abhasx/DSA-In-Java-/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abhasx/DSA-In-Java-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/abhasx/DSA-In-Java-/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1140-stone-game-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/abhasx/DSA-In-Java-/tree/master/0319-bulb-switcher) |
 | [0877-stone-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhasx/DSA-In-Java-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Brainteaser
@@ -83,12 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1140-stone-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhasx/DSA-In-Java-/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhasx/DSA-In-Java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1140-stone-game-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -132,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
