@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/abhasx/DSA-In-Java-/tree/master/0904-fruit-into-baskets) |
 | [1140-stone-game-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1140-stone-game-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhasx/DSA-In-Java-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/abhasx/DSA-In-Java-/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhasx/DSA-In-Java-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/abhasx/DSA-In-Java-/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/abhasx/DSA-In-Java-/tree/master/0904-fruit-into-baskets) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhasx/DSA-In-Java-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/abhasx/DSA-In-Java-/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhasx/DSA-In-Java-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/abhasx/DSA-In-Java-/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhasx/DSA-In-Java-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhasx/DSA-In-Java-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/abhasx/DSA-In-Java-/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
