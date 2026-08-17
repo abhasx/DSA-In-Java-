@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/abhasx/DSA-In-Java-/tree/master/0904-fruit-into-baskets) |
 | [1140-stone-game-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/abhasx/DSA-In-Java-/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/abhasx/DSA-In-Java-/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhasx/DSA-In-Java-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhasx/DSA-In-Java-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/abhasx/DSA-In-Java-/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/abhasx/DSA-In-Java-/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/abhasx/DSA-In-Java-/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhasx/DSA-In-Java-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/abhasx/DSA-In-Java-/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/abhasx/DSA-In-Java-/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/abhasx/DSA-In-Java-/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/abhasx/DSA-In-Java-/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/abhasx/DSA-In-Java-/tree/master/1563-stone-game-v) |
 ## Greedy
 |  |
 | ------- |
