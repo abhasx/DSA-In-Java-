@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/abhasx/DSA-In-Java-/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/abhasx/DSA-In-Java-/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/abhasx/DSA-In-Java-/tree/master/0997-find-the-town-judge) |
 | [1140-stone-game-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/abhasx/DSA-In-Java-/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/abhasx/DSA-In-Java-/tree/master/2029-stone-game-ix) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhasx/DSA-In-Java-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/abhasx/DSA-In-Java-/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/abhasx/DSA-In-Java-/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/abhasx/DSA-In-Java-/tree/master/0997-find-the-town-judge) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhasx/DSA-In-Java-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhasx/DSA-In-Java-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhasx/DSA-In-Java-/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/abhasx/DSA-In-Java-/tree/master/0997-find-the-town-judge) |
 | [3310-remove-methods-from-project](https://github.com/abhasx/DSA-In-Java-/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
