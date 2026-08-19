@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/abhasx/DSA-In-Java-/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/abhasx/DSA-In-Java-/tree/master/0997-find-the-town-judge) |
 | [1140-stone-game-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/abhasx/DSA-In-Java-/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/abhasx/DSA-In-Java-/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/abhasx/DSA-In-Java-/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhasx/DSA-In-Java-/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/abhasx/DSA-In-Java-/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/abhasx/DSA-In-Java-/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/abhasx/DSA-In-Java-/tree/master/0997-find-the-town-judge) |
+| [1386-cinema-seat-allocation](https://github.com/abhasx/DSA-In-Java-/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhasx/DSA-In-Java-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhasx/DSA-In-Java-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhasx/DSA-In-Java-/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhasx/DSA-In-Java-/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0055-jump-game) |
+| [1386-cinema-seat-allocation](https://github.com/abhasx/DSA-In-Java-/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/abhasx/DSA-In-Java-/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
@@ -236,5 +239,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/abhasx/DSA-In-Java-/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhasx/DSA-In-Java-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
