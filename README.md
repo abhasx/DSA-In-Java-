@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/abhasx/DSA-In-Java-/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhasx/DSA-In-Java-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhasx/DSA-In-Java-/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/abhasx/DSA-In-Java-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/abhasx/DSA-In-Java-/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/abhasx/DSA-In-Java-/tree/master/0904-fruit-into-baskets) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhasx/DSA-In-Java-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/abhasx/DSA-In-Java-/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhasx/DSA-In-Java-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/abhasx/DSA-In-Java-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhasx/DSA-In-Java-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/abhasx/DSA-In-Java-/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhasx/DSA-In-Java-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/abhasx/DSA-In-Java-/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/abhasx/DSA-In-Java-/tree/master/0567-permutation-in-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/abhasx/DSA-In-Java-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## String
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhasx/DSA-In-Java-/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0055-jump-game) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/abhasx/DSA-In-Java-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/abhasx/DSA-In-Java-/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/abhasx/DSA-In-Java-/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -153,10 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhasx/DSA-In-Java-/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/abhasx/DSA-In-Java-/tree/master/0143-reorder-list) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/abhasx/DSA-In-Java-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhasx/DSA-In-Java-/tree/master/0042-trapping-rain-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/abhasx/DSA-In-Java-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Sliding Window
 |  |
 | ------- |
