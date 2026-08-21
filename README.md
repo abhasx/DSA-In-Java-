@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/abhasx/DSA-In-Java-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abhasx/DSA-In-Java-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhasx/DSA-In-Java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhasx/DSA-In-Java-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/abhasx/DSA-In-Java-/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/abhasx/DSA-In-Java-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/abhasx/DSA-In-Java-/tree/master/0239-sliding-window-maximum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhasx/DSA-In-Java-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abhasx/DSA-In-Java-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/abhasx/DSA-In-Java-/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhasx/DSA-In-Java-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/abhasx/DSA-In-Java-/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/abhasx/DSA-In-Java-/tree/master/0567-permutation-in-string) |
 ## String
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/abhasx/DSA-In-Java-/tree/master/0056-merge-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhasx/DSA-In-Java-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
