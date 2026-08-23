@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhasx/DSA-In-Java-/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhasx/DSA-In-Java-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abhasx/DSA-In-Java-/tree/master/0567-permutation-in-string) |
+| [1927-sum-game](https://github.com/abhasx/DSA-In-Java-/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhasx/DSA-In-Java-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/abhasx/DSA-In-Java-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/abhasx/DSA-In-Java-/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/abhasx/DSA-In-Java-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/abhasx/DSA-In-Java-/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhasx/DSA-In-Java-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhasx/DSA-In-Java-/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/abhasx/DSA-In-Java-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/abhasx/DSA-In-Java-/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/abhasx/DSA-In-Java-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/abhasx/DSA-In-Java-/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0055-jump-game) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhasx/DSA-In-Java-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/abhasx/DSA-In-Java-/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/abhasx/DSA-In-Java-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/abhasx/DSA-In-Java-/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
