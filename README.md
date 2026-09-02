@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhasx/DSA-In-Java-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abhasx/DSA-In-Java-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhasx/DSA-In-Java-/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/abhasx/DSA-In-Java-/tree/master/0042-trapping-rain-water) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhasx/DSA-In-Java-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhasx/DSA-In-Java-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/abhasx/DSA-In-Java-/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/abhasx/DSA-In-Java-/tree/master/0141-linked-list-cycle) |
