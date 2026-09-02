@@ -7,8 +7,8 @@ class Solution {
             while(set.contains(s.charAt(i))){
                 set.remove(s.charAt(left));
                 left++;
-            }
-            set.add(s.charAt(i));
+            }    
+            set.add(s.charAt(i));  
             length=Math.max(length,(i-left)+1);
         }
     return length;}
