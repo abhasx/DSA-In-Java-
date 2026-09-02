@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhasx/DSA-In-Java-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/abhasx/DSA-In-Java-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhasx/DSA-In-Java-/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/abhasx/DSA-In-Java-/tree/master/0042-trapping-rain-water) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhasx/DSA-In-Java-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/abhasx/DSA-In-Java-/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/abhasx/DSA-In-Java-/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/abhasx/DSA-In-Java-/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhasx/DSA-In-Java-/tree/master/0424-longest-repeating-character-replacement) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhasx/DSA-In-Java-/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/abhasx/DSA-In-Java-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhasx/DSA-In-Java-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0055-jump-game) |
@@ -310,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhasx/DSA-In-Java-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhasx/DSA-In-Java-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
