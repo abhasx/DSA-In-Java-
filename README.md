@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhasx/DSA-In-Java-/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhasx/DSA-In-Java-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/abhasx/DSA-In-Java-/tree/master/0643-maximum-average-subarray-i) |
+| [0835-image-overlap](https://github.com/abhasx/DSA-In-Java-/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/abhasx/DSA-In-Java-/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/abhasx/DSA-In-Java-/tree/master/0997-find-the-town-judge) |
@@ -348,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhasx/DSA-In-Java-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/abhasx/DSA-In-Java-/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
