@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhasx/DSA-In-Java-/tree/master/0013-roman-to-integer) |
 | [0292-nim-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/abhasx/DSA-In-Java-/tree/master/0319-bulb-switcher) |
+| [0836-rectangle-overlap](https://github.com/abhasx/DSA-In-Java-/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/abhasx/DSA-In-Java-/tree/master/1510-stone-game-iv) |
@@ -353,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/abhasx/DSA-In-Java-/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/abhasx/DSA-In-Java-/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
