@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhasx/DSA-In-Java-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhasx/DSA-In-Java-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/abhasx/DSA-In-Java-/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhasx/DSA-In-Java-/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/abhasx/DSA-In-Java-/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhasx/DSA-In-Java-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1096-brace-expansion-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -385,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/abhasx/DSA-In-Java-/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
