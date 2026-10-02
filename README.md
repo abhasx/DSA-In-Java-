@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhasx/DSA-In-Java-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/abhasx/DSA-In-Java-/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/abhasx/DSA-In-Java-/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/abhasx/DSA-In-Java-/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/abhasx/DSA-In-Java-/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhasx/DSA-In-Java-/tree/master/0424-longest-repeating-character-replacement) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhasx/DSA-In-Java-/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhasx/DSA-In-Java-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhasx/DSA-In-Java-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abhasx/DSA-In-Java-/tree/master/0055-jump-game) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -390,5 +393,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
