@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhasx/DSA-In-Java-/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhasx/DSA-In-Java-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abhasx/DSA-In-Java-/tree/master/0567-permutation-in-string) |
+| [0856-score-of-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhasx/DSA-In-Java-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhasx/DSA-In-Java-/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/abhasx/DSA-In-Java-/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhasx/DSA-In-Java-/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0856-score-of-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -394,5 +396,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
