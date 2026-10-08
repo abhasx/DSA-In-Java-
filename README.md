@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/abhasx/DSA-In-Java-/tree/master/0567-permutation-in-string) |
 | [0856-score-of-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhasx/DSA-In-Java-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/abhasx/DSA-In-Java-/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhasx/DSA-In-Java-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0856-score-of-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/abhasx/DSA-In-Java-/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -400,5 +402,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhasx/DSA-In-Java-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
