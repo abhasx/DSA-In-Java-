@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhasx/DSA-In-Java-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhasx/DSA-In-Java-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/abhasx/DSA-In-Java-/tree/master/3524-find-x-value-of-array-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhasx/DSA-In-Java-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhasx/DSA-In-Java-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhasx/DSA-In-Java-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhasx/DSA-In-Java-/tree/master/3731-find-missing-elements) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhasx/DSA-In-Java-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhasx/DSA-In-Java-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhasx/DSA-In-Java-/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhasx/DSA-In-Java-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhasx/DSA-In-Java-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhasx/DSA-In-Java-/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhasx/DSA-In-Java-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhasx/DSA-In-Java-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhasx/DSA-In-Java-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhasx/DSA-In-Java-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/abhasx/DSA-In-Java-/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
