@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/abhasx/DSA-In-Java-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/abhasx/DSA-In-Java-/tree/master/3524-find-x-value-of-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhasx/DSA-In-Java-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/abhasx/DSA-In-Java-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhasx/DSA-In-Java-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhasx/DSA-In-Java-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhasx/DSA-In-Java-/tree/master/3731-find-missing-elements) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/abhasx/DSA-In-Java-/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abhasx/DSA-In-Java-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhasx/DSA-In-Java-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/abhasx/DSA-In-Java-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhasx/DSA-In-Java-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Floyd's Cycle Finding Algorithm
 |  |
